@@ -84,19 +84,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/m7madsabbagh">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=m7madsabbagh&count=2" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
